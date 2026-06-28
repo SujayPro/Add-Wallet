@@ -72,15 +72,10 @@ The official store listings are **in review** (Chrome ≈ 4 weeks). Until they'r
 
 <div align="center">
 
-<!--
-  ▼▼▼  INLINE VIDEO DROP-ZONE  ▼▼▼
-  To embed a real play-button player: edit this README on GitHub (pencil icon),
-  delete the line below, then DRAG  chromium.mp4  onto this spot. GitHub uploads
-  it and inserts a https://github.com/user-attachments/assets/... link that plays
-  inline. (chromium.mp4 is in the docs/ folder of this repo.)
-  ▲▲▲ -->
+<!-- Auto-playing, looping GIF (renders inline on GitHub like any image). -->
+<img src="docs/chromium.gif" width="640" alt="Chrome / Brave install walkthrough" />
 
-**🎬 Chrome / Brave walkthrough — _drag `chromium.mp4` here in GitHub's editor to embed the player._**
+<sub>▶️ sped-up demo (loops) · <a href="https://github.com/SujayPro/Add-Wallet/raw/main/docs/chromium.mp4">full-speed video</a></sub>
 
 </div>
 
@@ -108,14 +103,10 @@ When a new version drops: download the new `JEE-WALLET.zip`, replace the old fol
 
 <div align="center">
 
-<!--
-  ▼▼▼  INLINE VIDEO DROP-ZONE  ▼▼▼
-  Edit this README on GitHub (pencil icon), delete the line below, then DRAG
-  foxy.mp4  onto this spot to embed an inline play-button player.
-  (foxy.mp4 is in the docs/ folder of this repo.)
-  ▲▲▲ -->
+<!-- Auto-playing, looping GIF (renders inline on GitHub like any image). -->
+<img src="docs/foxy.gif" width="640" alt="Firefox install walkthrough" />
 
-**🎬 Firefox walkthrough — _drag `foxy.mp4` here in GitHub's editor to embed the player._**
+<sub>▶️ sped-up demo (loops) · <a href="https://github.com/SujayPro/Add-Wallet/raw/main/docs/foxy.mp4">full-speed video</a></sub>
 
 </div>
 
