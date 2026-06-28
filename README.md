@@ -73,11 +73,11 @@ The official store listings are **in review** (Chrome ≈ 4 weeks). Until they'r
 <div align="center">
 
 <!-- Clickable poster → opens the video player on GitHub. -->
-<a href="https://github.com/SujayPro/Add-Wallet/blob/main/docs/chromium.mp4">
+<a href="https://github.com/SujayPro/Add-Wallet/raw/main/docs/chromium.mp4">
   <img src="docs/chromium-poster.jpg" width="760" alt="Chrome / Brave install walkthrough" />
 </a>
 
-<sub>▶️ <b><a href="https://github.com/SujayPro/Add-Wallet/blob/main/docs/chromium.mp4">Click to play — Chrome / Brave walkthrough</a></b></sub>
+<sub>▶️ <b><a href="https://github.com/SujayPro/Add-Wallet/raw/main/docs/chromium.mp4">Click to play — Chrome / Brave walkthrough</a></b></sub>
 
 </div>
 
@@ -106,11 +106,11 @@ When a new version drops: download the new `JEE-WALLET.zip`, replace the old fol
 <div align="center">
 
 <!-- Clickable poster → opens the video player on GitHub. -->
-<a href="https://github.com/SujayPro/Add-Wallet/blob/main/docs/foxy.mp4">
+<a href="https://github.com/SujayPro/Add-Wallet/raw/main/docs/foxy.mp4">
   <img src="docs/foxy-poster.jpg" width="760" alt="Firefox install walkthrough" />
 </a>
 
-<sub>▶️ <b><a href="https://github.com/SujayPro/Add-Wallet/blob/main/docs/foxy.mp4">Click to play — Firefox walkthrough</a></b></sub>
+<sub>▶️ <b><a href="https://github.com/SujayPro/Add-Wallet/raw/main/docs/foxy.mp4">Click to play — Firefox walkthrough</a></b></sub>
 
 </div>
 
